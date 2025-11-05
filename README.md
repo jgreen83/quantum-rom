@@ -3,4 +3,8 @@
 
 # File Directory
 - [`qrom-different-implementations.ipynb`](./qrom-different-implementations.ipynb) - step-by-step implementation and verification of both implementations, with some examples for small n: good for exploring the two methods
+- [`demos.ipynb`](./demos.ipynb) - demos for each implementation for n = 3
+- [`select.py`](./select.py) - cleaned-up, packaged select implementation
+- [`selectswap.py`](./selectswap.py) - cleaned-up, packaged select-swap implementation
+
 
