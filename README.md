@@ -1,4 +1,4 @@
-# quantum-rom
+# Introduction
 2 Potential implementations in Qiskit for a Quantum ROM system: takes a boolean function $f: \mathbb{F}_2^n \to \mathbb{F}_2^d$ and outputs a circuit, $U$, such that $U |x\rangle_n |0 \rangle_d = |x \rangle_n |f(x) \rangle_d.$
 
 # File Directory
